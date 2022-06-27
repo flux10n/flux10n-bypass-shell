@@ -1,5 +1,5 @@
 ## Cooming soon :v
 
-<p align="center">
-Android photo<br>
+Android photo :
+
 <img src="/img/sc.jpg" alt="oit"></p>
