@@ -1,2 +1,2 @@
-# Flux10n-Bypass-Shell
+# Bypass-Shell
 Shell that bypasses 403 forbidden.
