@@ -16,3 +16,11 @@ a shell that can bypass 403 forbidden.
                   Copyright © 2022 Flux10n
 
 ```
+
+## Features:
+* 1. Bypass 403 forbidden
+* 2. PHP-code
+* 3. Command/CMD
+* 4. Create File & Dir
+* 5. Rename/Delete
+
