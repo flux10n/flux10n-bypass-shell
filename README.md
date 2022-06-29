@@ -1,5 +1,5 @@
-## Shell
-a shell that can bypass 403 forbidden.
+## About
+php hacking tools namely shell bypass 403 forbidden.
 ```
 
                 
@@ -18,9 +18,14 @@ a shell that can bypass 403 forbidden.
 ```
 
 ## Features:
-* 1. Bypass 403 forbidden
-* 2. PHP-code
-* 3. Command/CMD
-* 4. Create File & Dir
-* 5. Rename/Delete
+* Bypass 403 forbidden
+* PHP-code
+* Command/CMD
+* Create File & Dir
+* Rename/Delete
 
+## Tested on Apk:
+Google/Chrome
+
+## File extension:
+[PHP](https://github.com/php)
