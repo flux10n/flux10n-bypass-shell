@@ -1,2 +1,2 @@
 # Bypass-Shell
-Shell that bypasses 403 forbidden.
+Shell that bypass 403 forbidden.
