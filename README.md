@@ -1,5 +1,5 @@
 ## About
-> php shell bypass 403. In addition to hacking, it can be used for seo by adding backlinks.
+php shell bypass 403. In addition to hacking, it can be used for seo by adding backlinks.
 ```
 
                 
