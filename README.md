@@ -1,5 +1,5 @@
 ## About
-php hacking tools namely shell bypass 403 forbidden.
+php hacking tools namely shell bypass 403 forbidden. In addition to hacking, it can be used for seo by adding backlinks.
 ```
 
                 
