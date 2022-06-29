@@ -25,7 +25,7 @@ php shell bypass 403. In addition to hacking, it can be used for seo by adding b
 * Rename/Delete
 
 ## Tested on Apk:
-Google/Chrome
+**Google/Chrome & Mozilla**
 
 ## File extension:
 [PHP](https://github.com/php)
