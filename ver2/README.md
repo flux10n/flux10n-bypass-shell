@@ -9,4 +9,4 @@
 ! recode wso shell :)
 ```
 
-<img src="" width="100%">
+<img src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg" alt="wkwk" width="100%">
