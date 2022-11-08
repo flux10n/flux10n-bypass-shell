@@ -1,6 +1,6 @@
 ## Version two is rill !!!
 
-<img align="left" width="150" height="150" src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg">
+<img align="left" width="130" height="130" src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg">
 
 ```diff
 @@Fiture:@@
