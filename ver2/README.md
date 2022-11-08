@@ -2,6 +2,8 @@
 
 <img align="left" width="150" height="150" src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg">
 
+<img align="left" width="150" height="150" src="https://telegra.ph/file/ba2e76beba41ef4eaac00.png">
+
 ```diff
 @@Fiture:@@
 
