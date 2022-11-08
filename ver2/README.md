@@ -1,8 +1,6 @@
 ## Version two is rill !!!
 
-<img align="left" width="150" height="150" src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg">
-
-<img align="left" width="150" height="150" src="https://telegra.ph/file/ba2e76beba41ef4eaac00.png">
+<img align="left" width="150" height="150" src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg" alt="hay"></img>
 
 ```diff
 @@Fiture:@@
@@ -21,3 +19,4 @@
 ! other tools and mods are still being considered :v
 ```
 
+<img align="center" width="100" height="100" src="https://telegra.ph/file/ba2e76beba41ef4eaac00.png">
