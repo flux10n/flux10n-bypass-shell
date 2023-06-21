@@ -19,7 +19,3 @@
 ! other tools and mods are still being considered :v
 ```
 
-<a href="https://hengker@cia.gov/"><img align="left" alt="donate" width="90" height="90" src="https://telegra.ph/file/ba2e76beba41ef4eaac00.png"></a>
-<h6 align="left">
-    Donate to me by downloading and scanning the image beside after that you will get something, that is all and thank you :)<br><br>
-    </h6>
