@@ -16,8 +16,7 @@ php shell bypass 403. In addition to hacking, it can be used for seo by adding b
                  Tools modified by flux10n
                      Thanks to: NyanMaru
 
-           [?] Usage login to webshell: shell.php 
-                  Copyright © 2022 Flux10n
+                [?]  Copyright © 2022 Flux10n
 
 ```
 
