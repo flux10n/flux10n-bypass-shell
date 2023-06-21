@@ -1,5 +1,5 @@
 <?php
-# merename nama dan mereupload konten tidak akan membuatmu menjadi hekers sejati 
+
 error_reporting(0);
 $password='akuganteng';//passwordmu
 $xyn='psatir';
