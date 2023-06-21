@@ -1,4 +1,4 @@
-## Version two is rill !!!
+## No Bypass
 
 <img align="left" width="150" height="150" src="https://telegra.ph/file/f252c40480e52e4fe2bb7.jpg" alt="hay"></img>
 
